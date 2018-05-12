@@ -1,11 +1,14 @@
 _repo: A-Century-Too-Soon--The-Age-of-Tyranny_10387
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Carter, F. A. (Freeland A.)
     alias: Carter, Freeland A.
     gutenberg_agent_id: '31898'
     url: http://www.gutenberg.org/2009/agents/31898
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Musick, John R. (John Roy)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3504
     wikipedia: http://en.wikipedia.org/wiki/John_R._Musick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10387#A-Century-Too-Soon--The-Age-of-Tyranny
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
